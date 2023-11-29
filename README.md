@@ -1,4 +1,5 @@
-😎 Hello there! I'm Adrian. Let's code cool things together! 😊🚀
+ ## 😎 Hello there! I'm Adrian. 
+  Let's code cool things together! 😊🚀
 <br />
 
 I am a passionate software student eager to learn and strive for improvement. I have a keen interest in web development and enjoy contributing to my team. Being social is a priority for me, and I put effort into becoming better every day. I aspire to grow both as a developer and as an individual in the coming years. Embracing challenges and continuous learning are key aspects of my journey. I am enthusiastic about the prospect of evolving in both my technical skills and personal development, aiming for a fulfilling and successful future.
