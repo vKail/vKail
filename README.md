@@ -27,7 +27,7 @@ I am a passionate software student eager to learn and strive for improvement. I 
 
 
 </a>
-<a href="https://github.com/vKail/avKail.github.io">
+<a href="https://github.com/vKail/vKail.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vKail&repo=vKail.github.io&theme=buefy" />
 </a>
 
