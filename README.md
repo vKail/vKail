@@ -9,7 +9,7 @@ I am a passionate software student eager to learn and strive for improvement. I 
 
 - HTML
 - Java
-- JavaScript
+- JavaScript/TypeScript
 - React
 - Tailwind CSS
 
