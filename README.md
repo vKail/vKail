@@ -53,17 +53,17 @@ I constantly explore ways to make interfaces cleaner, faster, and more intuitive
 ## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKail&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKail&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKail&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKail&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKail&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKail&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKail&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKail&theme=github_dark&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKail&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKail&theme=rose_pine&utcOffset=5" />
 </p>
 
 
