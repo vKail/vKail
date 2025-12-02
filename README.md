@@ -55,11 +55,11 @@ I constantly explore ways to make interfaces cleaner, faster, and more intuitive
 <p align="center">
 
   <a href="https://github.com/vKail/rental-cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianJurado&repo=your-repo-1&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vKail&repo=rental-cars&theme=buefy" />
   </a>
 
   <a href="https://github.com/vKail/inventory-management-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianJurado&repo=your-repo-2&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vKail&repo=inventory-management-frontend&theme=buefy" />
   </a>
 
 </p>
@@ -67,11 +67,11 @@ I constantly explore ways to make interfaces cleaner, faster, and more intuitive
 <p align="center">
 
   <a href="https://github.com/AdrianJurado">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdrianJurado&show_icons=true&theme=buefy" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vKail&show_icons=true&theme=buefy" height="150" />
   </a>
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJurado&layout=compact&theme=buefy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJurado&layout=compact&theme=buefy" height="150" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vKail&layout=compact&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vKail&layout=compact&theme=buefy" height="150" />
   </a>
 
 </p>
