@@ -50,31 +50,22 @@ I constantly explore ways to make interfaces cleaner, faster, and more intuitive
 
 ---
 
-## 📌 Top Repositories
+## 📊 GitHub Summary
 
 <p align="center">
-
-  <a href="https://github.com/vKail/rental-cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vKail&repo=rental-cars&theme=buefy" />
-  </a>
-
-  <a href="https://github.com/vKail/inventory-management-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vKail&repo=inventory-management-frontend&theme=buefy" />
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKail&theme=github_dark" />
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/AdrianJurado">
-    <img src="https://github-readme-stats.vercel.app/api?username=vKail&show_icons=true&theme=buefy" height="150" />
-  </a>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vKail&layout=compact&theme=buefy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vKail&layout=compact&theme=buefy" height="150" />
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKail&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKail&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKail&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKail&theme=github_dark&utcOffset=5" />
+</p>
+
 
 ---
 
